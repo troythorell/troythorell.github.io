@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics in my 3rd year at the [Univeristy of Houston](https://www.uh.edu/class/economics/). I am planning to graduate in May of 2024.
+I am a PhD candidate in Economics at the [University of Houston](https://www.uh.edu/class/economics/). I am currently in my 3rd year and plan to graduate in May of 2024.
 
 Interests
 ======
